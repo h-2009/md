@@ -1,0 +1,53 @@
+<html>
+<head>
+  <title>HARDIK'S PERSONAL SITE </title>
+
+</head>
+<body>
+  <table>
+    <tr>
+      <td><img src="https://cdn1.vectorstock.com/i/1000x1000/58/60/young-man-casual-avatar-with-glasses-vector-14695860.jpg"width="300" height="250" alt="HARDIK PROFILE PICTURE"></TD>
+        <td><h1>HARDIK CHOPRA</h1>
+
+          <p><em>STUDENT AT <strong><a href="https://www.vsec.in/images/About-bg/about1.jpg">DR VSEC</a> </strong>  </em>
+          <p>AGE <strong> 15</strong> </p></td></tr>
+
+  </table>
+  <hr>
+<center><h3>ACHIEVEMENTS:</h3></center>
+<ul>
+  <li>all over 5th rank in class 9</li>
+  <li>STATE LEVEL BADMINTON PLAYER</li>
+</ul>
+
+<hr>
+<h2> COMPETITION RECORDS</H2>
+  <ol>
+  <em>  <li>LOST IN PRE QUATERS OF DISTRICT BADMINTON EVENT</li></em>
+  <strong>  <li>SEMI FINALIST AT INTER SCHOOL BADMINTON EVENT</li></strong>
+  <em>   <li>LOST 5TH ROUND IN STATE LEVEL BADMINTON EVENT</li></em>
+    <strong><li>WON THE ENGINEERING TASK EVENT IN SCHOOL</li></strong>
+    <em> <li> WON THE BEST BADMINTON PLAYER AWARD AT SCHOOL</li></em>
+    </ol>
+    <hr>
+    <h3>SKILLS</h3>
+    <table cellspacing="10">
+      <tr>
+      <td>WEB DEVELOPMENT</td>
+      <td>☆☆</td>
+      <td>Badminton</td>
+      <td>☆☆☆☆</td>
+      </tr>
+      <tr>
+        <td>JAVA</td>
+        <td>☆☆☆</td>
+      </tr>
+    </table>
+    <hr>
+    <center><h1>PERSONAL TUTION</H1></center>
+      <STRONG>
+        <p>I teach english subject to students of class 10 of board icse wit the latest syllabus of both literature in english as well as english language</p>
+      <p>FOR THE ENROLLMENT OF THE KID YOU CAN VISIT MY WEBSITE<a href="ENROLL FORM.html">FORMS</a></p>
+      </STRONG>
+</body>
+</html>
